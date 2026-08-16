@@ -1,0 +1,15 @@
+.venv/
+.vscode/
+.git/
+
+__pycache__/
+*.pyc
+*.pyo
+
+notebooks/
+reports/
+data/
+
+*.ipynb
+
+environment.yml
