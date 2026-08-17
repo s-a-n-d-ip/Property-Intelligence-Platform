@@ -19,8 +19,9 @@ The demo shows:
 - 🤝 Similar apartment recommendations
 - ☁️ The application running in a deployed environment
 
-**[▶️ Watch the Project Demo](./demo/property-intelligence-demo.mp4)**
+### 🎥 Demo Video
 
+https://github.com/user-attachments/assets/6167f165-2001-4d30-bb26-232f03dac09f
 ---
 
 ## 🚀 Project Overview
